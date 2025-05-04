@@ -1,1 +1,1 @@
-# animerec
+# Web Scraping Animes
