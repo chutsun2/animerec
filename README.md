@@ -1,1 +1,1 @@
-# Web-Scraping-Animes
+# Web Scraping Anime Names
